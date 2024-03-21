@@ -1,7 +1,3 @@
-- 👋 Hi, I’m 
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Full stack web development.
-- 📫 My professional email :- abhishek.yevle@yahoo.com
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
