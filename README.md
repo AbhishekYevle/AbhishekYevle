@@ -17,4 +17,4 @@ My name is **@AbhishekYevle** and I'm a **Technical Project Manager & Full-Stack
 
 ## Find me
 
-🌐 [Portfolio](https://tubular-rabanadas-8c59fd.netlify.app) · 💼 [LinkedIn](#) · ✉️ abhishek.yevle@yahoo.com
+🌐 [Portfolio](https://abhishekyevle.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/abhishekyevle/) · ✉️ abhishek.yevle@yahoo.com
