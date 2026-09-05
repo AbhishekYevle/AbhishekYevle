@@ -1,33 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋 What's up?
 
-###
+My name is **@AbhishekYevle** and I'm a **Technical Project Manager & Full-Stack Developer** (MERN / MEAN).
 
-<p align="left">My name is @AbhishekYevle and I'm a Full Stack Web Developer.</p>
+## About me
 
-###
+⚡ Interim **Head of Operations** @ INFOTEK — I build products, integrate the hard systems, and lead the team that ships them
+🧩 **Build** full-stack products end to end — MERN · MEAN · PHP · Next.js on AWS
+🔗 **Integrate** what others avoid — Tally ERP (TDL + API) · Aras PLM · UiPath RPA · WhatsApp Business API · SQL Server replication / CDC
+📊 **Ship** multi-tenant SaaS with RBAC — procurement/eRFQ, CRM, HRMS, inventory & warehouse systems
+👥 **Lead** delivery across 17 client accounts / 8+ industries with a team of 8+ engineers
+✉️ My Email is abhishek.yevle@yahoo.com
 
-<h2 align="left">About me</h2>
+## I code with
 
-###
+[![My skills](https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,angular,cs,dotnet,php,mongodb,mysql,aws,docker,tailwind,git,github)](https://skillicons.dev)
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning JavaScript<br>⚡My Email is abhishek.yevle@yahoo.com</p>
+## Find me
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
+🌐 [Portfolio](https://tubular-rabanadas-8c59fd.netlify.app) · 💼 [LinkedIn](#) · ✉️ abhishek.yevle@yahoo.com
